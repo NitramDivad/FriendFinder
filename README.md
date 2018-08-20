@@ -4,7 +4,7 @@
 Friend Finder
 
 
-In this activity, I was tasked to build a compatibility-based "FriendFinder" application -- basically a dating app but I added a twist:  the initial 21 user are Looney Tunes characters. This full-stack site will take in results from users' surveys, then compare those answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+In this activity, I was tasked to build a compatibility-based "FriendFinder" application -- basically a dating app but I added a twist:  the initial 21 users are Looney Tunes characters. This full-stack site will take in results from users' surveys, then compare those answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
 Express will be used to handle routing, and the app will be deployed to Heroku so other users can fill it out.
 
@@ -25,7 +25,7 @@ Additionally, the user will be prompted to enter his/her name, and to provide an
 
 Compatibility is determined by a scoring methodology whereby the numerical answer to each question is subtracted from the same question for each Friend in the pool.  The differences (all absolute values) are added together to obtain a final score.  The lowest score will represent the most compatible friend.
 
-A modal popup will be used to displey the results of the Friend Finder.  It is possible to return more than one compatible friend.
+A modal popup will be used to display the results of the Friend Finder.  It is possible to return more than one compatible friend.
 
 
 ## **Created by:** #
@@ -33,4 +33,5 @@ A modal popup will be used to displey the results of the Friend Finder.  It is p
 [David Martin](mailto:webdevelopment.du@gmail.com)
 [GitHub](https://github.com/nitramdivad)
 
-[Launch Site](https://nitramdivad.github.io/)
+[Friend Finder Site](https://sheltered-retreat-60665.herokuapp.com)
+[Portfolio Site](https://nitramdivad.github.io/)
