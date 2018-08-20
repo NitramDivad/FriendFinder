@@ -4,7 +4,7 @@
 FriendFinder App Details
 
 
-In this activity, I was tasked to build a compatibility-based "FriendFinder" application -- basically a dating app but I added a twist:  the initial 21 users are Looney Tunes characters. This full-stack site will take in results from users' surveys, then compare those answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+In this activity, I was tasked to build a compatibility-based "FriendFinder" application -- basically a dating app but I added a twist:  the initial users are Looney Tunes characters. This full-stack site will take in results from users' surveys, then compare those answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
 
 Express will be used to handle routing, and the app will be deployed to Heroku so other users can fill it out.
 
