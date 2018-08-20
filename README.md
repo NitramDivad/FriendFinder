@@ -30,8 +30,8 @@ A modal popup will be used to display the results of the Friend Finder.  It is p
 
 ## **Created by:** #
 
-[David Martin](mailto:webdevelopment.du@gmail.com)
+[David Martin](mailto:webdevelopment.du@gmail.com) | 
 [GitHub](https://github.com/nitramdivad)
 
-[Friend Finder Site](https://sheltered-retreat-60665.herokuapp.com)
+[Friend Finder Site](https://sheltered-retreat-60665.herokuapp.com) | 
 [Portfolio Site](https://nitramdivad.github.io/)
