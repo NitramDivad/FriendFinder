@@ -217,7 +217,6 @@
                 };
     
                 $.post("/api/friends", friendInputs, function(friend) {
-                    console.log(friend);
 
                     if (friend.length === 1)
                         $(".modal-title").text("Best Looney Match");
